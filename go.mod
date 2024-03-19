@@ -1,4 +1,4 @@
-module github.com/smacker/go-tree-sitter
+module github.com/urbit-pilled/go-tree-sitter
 
 go 1.13
 
